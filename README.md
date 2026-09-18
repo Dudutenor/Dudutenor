@@ -14,8 +14,8 @@ Meu nome é Eduardo Tenório e sou Web Development Student!
 
 ## Curiosidades
 
-- _Gosto de jogos de turnos, gachas e Vn's. Meu jogo favorito é Clair Obscur Expedition 33, e meu livro favorito é Umineko When They Cry.
-- _Sou absurdo de bom em jogos de ritmos. Principalmente em OSU MANIA.
+- Gosto de jogos de turnos, gachas e Vn's. Meu jogo favorito é Clair Obscur Expedition 33, e meu livro favorito é Umineko When They Cry.
+- Sou absurdo de bom em jogos de ritmos. Principalmente em OSU MANIA.
 
 ---
 
